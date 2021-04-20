@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joseg-05
-- 👀 I’m interested in Mobile/Web development
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on java code.
+- 👀 I’m interested in Sleeping.
+- 🌱 I’m currently learning to Sleep.
+- 💞️ I’m looking to collaborate on some juiy java code.
 - 📫 How to reach me ...
 
 <!---
