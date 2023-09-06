@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joseg-05
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on a project in a job.
+- 💞️ I’m looking to collaborate on a project for a job.
 - 📫 How to reach me ...
 
 <!---
