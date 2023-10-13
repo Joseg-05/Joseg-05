@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseg-05
-- 👀 I’m interested in many things.
-- 🌱 I’m currently learning ....
+- 👀 I’m interested in putting hardware and software together
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on a project for a job.
 - 📫 How to reach me ...
 
