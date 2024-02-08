@@ -2,7 +2,7 @@
 -  ✝️ John 3:16
 - 👋 Hi, My name is Jose
 - 👀 My hobby in putting hardware and software together, I really love low level programming such as Rust, GO, C++, C
-- ❤️ I love to work Front-end and Backend
+- ❤️ I love to work on Front-end and Backend
 - ❤️ Front-end Technologies that I have worked with are Blazor, React, and Angular
 - ❤️ Back-end Technologies that I have work with are .NET, GO and soon to be Rust
 
